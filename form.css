@@ -7,7 +7,8 @@
 }
 
 body {
-    background-image: url("./images/nature.jpg");
+    background-image: linear-gradient(rgb(211, 101, 212), rgb(13, 105, 28));
+
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
